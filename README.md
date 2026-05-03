@@ -37,7 +37,7 @@ whiskit-website/
 
 ## 🚀 Live Demo
 
-👉 [View Website](https://yourusername.github.io/whiskit-website/)
+👉 https://miriam-gale.github.io/whisk-it-website/
 
 ---
 
